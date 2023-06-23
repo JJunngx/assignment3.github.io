@@ -15,19 +15,20 @@
   }
 
   /* chung chi giai thuong  */
-  .row .ggg {
-    padding: 50px;
+  .container .open1 {
     border-top: 2px solid #ff8787;
-    border-left: none;
-  }
-  .container .zzz {
-    padding: 50px;
+
     border-bottom: 2px solid #ff8787;
+  }
+  .container .open2 {
     border-top: 2px solid #ff8787;
+    padding-top: 48px;
   }
-  .yyy {
-    padding: 50px;
+  .container .open3 {
+    border-right: none;
+    margin-bottom: 0;
   }
+
   /* project
 
    */
