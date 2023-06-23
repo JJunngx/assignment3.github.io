@@ -157,13 +157,17 @@ p {
 }
 
 /* chung chi   vaf giai thuongw */
-.ggg {
-  border-left: 2px solid #ffe066;
-}
-.zzz {
+.open1 {
   border-top: 2px solid #ffe066;
 }
+.open3 {
+  border-right: 2px solid #ffe066;
+  margin-bottom: 48px;
+}
 
+.noo {
+  background-color: #f1f3f5;
+}
 /* project */
 table {
   height: 300px;
